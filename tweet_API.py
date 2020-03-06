@@ -2,7 +2,7 @@
 # JP DILAN KALPA - 11634268 #
 import os
 import pandas as pd
-imp~ort tweepy
+import tweepy
 import re
 import string
 from textblob import TextBlob
