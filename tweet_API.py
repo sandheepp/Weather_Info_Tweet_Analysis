@@ -29,7 +29,7 @@ COLS = ['id', 'created_at', 'source', 'original_text','clean_text', 'sentiment',
 
 #set two date variables for date range
 start_date = '2019-12-01'
-end_date = '2019-12-31'
+end_date = '2019-12-30'
 
 # Happy Emoticons
 emoticons_happy = set([
