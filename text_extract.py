@@ -1,3 +1,5 @@
+# This code is for analysis of Text extracted
+
 # pip install spacy
 # python -m spacy download en_core_web_sm
 
