@@ -1,5 +1,3 @@
-# Dylan's MacbookPro #
-# JP DILAN KALPA - 11634268 #
 import os
 import pandas as pd
 import tweepy
@@ -9,7 +7,6 @@ from textblob import TextBlob
 import preprocessor as p
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-
 
 #Twitter credentials for the app
 consumer_key = 'xxxx'
